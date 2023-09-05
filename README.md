@@ -8,6 +8,6 @@ Install (Laravel)
 -----------------
 Install via composer
 ```
-composer require jacksonit/nganluong
+composer require datnt15/nganluong
 php artisan vendor:publish --provider="Jacksonit\NganLuong\NganLuongServiceProvider"
 ```
